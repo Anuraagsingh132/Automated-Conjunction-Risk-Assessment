@@ -64,7 +64,7 @@ To run the full inference pipeline yourself, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Automated-Conjunction-Risk-Assessment.git](https://github.com/your-username/Automated-Conjunction-Risk-Assessment.git)
+    git clone [https://github.com/your-username/Automated-Conjunction-Risk-Assessment.git](https://github.com/Anuraagsingh132/Automated-Conjunction-Risk-Assessment.git)
     cd Automated-Conjunction-Risk-Assessment
     ```
 
