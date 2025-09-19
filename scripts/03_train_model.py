@@ -74,7 +74,8 @@ if __name__ == "__main__":
         exit()
         
     # --- 2. FEATURE SELECTION & DATA SPLITTING ---
-    FEATURES = df.drop(columns=[TARGET, 'tca_jd', 'id_A', 'id_B']).columns.tolist()
+    FEATURES = df.drop(columns=[TARGET, 'miss_distance_km', 'tca_jd', 'id_A', 'id_B']).columns.tolist()
+
     X = df[FEATURES]
     y = df[TARGET]
 
